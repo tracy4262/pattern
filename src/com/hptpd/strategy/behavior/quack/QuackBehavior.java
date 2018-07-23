@@ -1,13 +1,13 @@
-package com.hptpd.duck.behavior.fly;
+package com.hptpd.strategy.behavior.quack;
 
 /**
  * \* Created with IntelliJ IDEA.
  * \* User: 彭诗杰
  * \* Date: 2018/7/19
- * \* Time: 10:16
+ * \* Time: 10:34
  * \* Description:
  * \
  */
-public interface FlyBehavior {
-    void fly();
+public interface QuackBehavior {
+    void quack();
 }

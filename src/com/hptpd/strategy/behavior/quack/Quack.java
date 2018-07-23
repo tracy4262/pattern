@@ -1,4 +1,4 @@
-package com.hptpd.duck.behavior.quack;
+package com.hptpd.strategy.behavior.quack;
 
 public class Quack implements QuackBehavior {
     private static Quack ourInstance = new Quack();

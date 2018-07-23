@@ -1,7 +1,7 @@
-package com.hptpd.duck;
+package com.hptpd.strategy;
 
-import com.hptpd.duck.behavior.fly.FlyWithWings;
-import com.hptpd.duck.behavior.quack.Quack;
+import com.hptpd.strategy.behavior.fly.FlyWithWings;
+import com.hptpd.strategy.behavior.quack.Quack;
 
 /**
  * \* Created with IntelliJ IDEA.
@@ -20,7 +20,7 @@ public class MallardDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("This is a real Mallard duck");
+        System.out.println("This is a real Mallard strategy");
     }
 
     @Override

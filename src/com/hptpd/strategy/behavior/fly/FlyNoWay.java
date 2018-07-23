@@ -1,4 +1,4 @@
-package com.hptpd.duck.behavior.fly;
+package com.hptpd.strategy.behavior.fly;
 
 /**
  * \* Created with IntelliJ IDEA.

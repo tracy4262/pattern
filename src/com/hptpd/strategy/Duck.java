@@ -1,7 +1,7 @@
-package com.hptpd.duck;
+package com.hptpd.strategy;
 
-import com.hptpd.duck.behavior.fly.FlyBehavior;
-import com.hptpd.duck.behavior.quack.QuackBehavior;
+import com.hptpd.strategy.behavior.fly.FlyBehavior;
+import com.hptpd.strategy.behavior.quack.QuackBehavior;
 
 /**
  * \* Created with IntelliJ IDEA.

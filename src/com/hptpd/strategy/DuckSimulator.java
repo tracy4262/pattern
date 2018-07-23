@@ -1,6 +1,6 @@
-package com.hptpd.duck;
+package com.hptpd.strategy;
 
-import com.hptpd.duck.behavior.fly.FlyRocketPowered;
+import com.hptpd.strategy.behavior.fly.FlyRocketPowered;
 
 /**
  * \* Created with IntelliJ IDEA.
